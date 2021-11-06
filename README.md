@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/rrlf4rj33juynic7?svg=true)](https://ci.appveyor.com/project/Yana-85/auto-carddeliveryorderwithnewdate)
